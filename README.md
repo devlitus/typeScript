@@ -1,7 +1,7 @@
 # typeScript
 curso de typeScript  
 ## Temario
-* tipados de valore  
+* tipados de valores    
     * numeral  
     * string  
     * enum  
